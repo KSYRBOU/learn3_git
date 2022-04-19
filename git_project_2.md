@@ -2,11 +2,11 @@
 
 ## git commands
 git branch -  выводит список веток
-git branch branch_name - создает ветку
+git branch branch_name - создает веткуhrt
 
 ## md commands
 (#) - заголовок
-(*) - список
+(*) - списокghtr
 
 ## test
 Проверяем log веток
