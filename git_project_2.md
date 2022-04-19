@@ -7,3 +7,6 @@ git branch branch_name - создает ветку
 ## md commands
 (#) - заголовок
 (*) - список
+
+## test
+Проверяем log веток
